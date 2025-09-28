@@ -2,7 +2,7 @@
 
 Simple Ai assisted Bot for applications where user need a chatbot to understand something.
 
-[Application](./Screenshot 2025-09-28 171726.png)
+![Application](./Screenshot 2025-09-28 171726.png)
 
 Currently, two official plugins are available:
 
