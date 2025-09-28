@@ -1,6 +1,8 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Simple Ai assisted Bot for applications where user need a chatbot to understand something.
+
+[]()
 
 Currently, two official plugins are available:
 
